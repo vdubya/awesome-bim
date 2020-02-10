@@ -1,6 +1,10 @@
-# Organizations that publish BIM-related code on Github
+# Awesome BIM Organizations Supporting Open Source
 
-Some organizations in the architecture, engineering, and construction industries (as well as supporting organizations) prohibit posting sharing resources via open source due to fear of intellectual property, competitive advantage, and revenue loss. This list recognizes the enlightened organizations that realize the mutually beneficial advantages of open collaboration.
+[![Join the chat at https://gitter.im/awesome-bim/Lobby](https://badges.gitter.im/awesome-bim/Lobby.svg)](https://gitter.im/awesome-bim/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+This is a curated list of organizations that publish BIM-related code on Github.
+
+Some organizations in the architecture, engineering, and construction (AEC) industries (as well as supporting organizations) prohibit posting reusable resources via open source due to fear of intellectual property, competitive advantage, and revenue loss. Reusable resources include code, algorithms, generative design scripts, content, templates, and anything that supports AEC-specific activities. This list recognizes the enlightened organizations that realize the mutually beneficial advantages of open collaboration.
 
 ## Architecture and Engineering
 * [Arup](https://github.com/ArupAus)
