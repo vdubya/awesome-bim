@@ -25,6 +25,7 @@ Some organizations in the architecture, engineering, and construction (AEC) indu
 ## Software and Consulting Companies
 * [Autodesk](https://github.com/Autodesk)
    * https://github.com/jeremytammik
+* [Bentley Systems, imodel.js](https://github.com/imodeljs)
 * [GeometryGym](https://github.com/jmirtsch)
 * [Robert McNeel and Associates, Rhino, Grasshopper](https://github.com/mcneel)
 * [Speckle Works](https://github.com/speckleworks)
